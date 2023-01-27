@@ -13,6 +13,6 @@ http://brads-image-processing-on-aws-dev.us-east-1.elasticbeanstalk.com
 
 ### Deployment Screenshots
 
-![Deployment_screenshot_1](./deployment_screenshots/deployment_screenshot_1.png)
+![Deployment_screenshot_1](./deployment_screenshot/deployment_screenshot_1.png)
 
-![Deployment_screenshot_2](./deployment_screenshots/deployment_screenshot_2.png)
+![Deployment_screenshot_2](./deployment_screenshot/deployment_screenshot_2.png)
