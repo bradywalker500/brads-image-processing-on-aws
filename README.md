@@ -11,6 +11,8 @@ An application that helps the FBI find missing people.  The application uploads 
 
 http://brads-image-processing-on-aws-dev.us-east-1.elasticbeanstalk.com
 
+![Endpoint_working_on_EB](./deployment_screenshot/Endpoint_working_on_EB.png)
+
 ### Deployment Screenshots
 
 ![Deployment_screenshot_1](./deployment_screenshot/deployment_screenshot_1.png)
